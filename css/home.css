@@ -2,3 +2,8 @@ body {
   background-image: url(../images/flowerpaper.jpeg);
 background-size: cover;
 }
+
+.jumbotron {
+  margin-top: 10vh;
+
+}
