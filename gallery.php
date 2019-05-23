@@ -144,7 +144,7 @@
         <div class="modal-body">
         </div>
         <div id="form1">
-         <form action="index.php" method="post" enctype="multipart/form-data">
+         <form action="upload.php" method="post" enctype="multipart/form-data">
              Select image to upload:
              <input type="file" name="fileToUpload" id="fileToUpload">
 
