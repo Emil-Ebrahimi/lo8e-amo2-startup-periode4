@@ -40,7 +40,7 @@ if ($uploadOk == 0) {
       $sql = "INSERT INTO images (image) VALUES ('$filename')";
       $conn->query($sql);
         echo "The file ". basename( $_FILES["fileToUpload"]["name"]). " has been uploaded.";
-        header("Location: ../lo8e-amo2-startup-periode4/gallery.php");
+        header("Location: gallery.php");
     } else {
         echo "Sorry, there was an error uploading your file.";
     }
