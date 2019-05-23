@@ -1,0 +1,10 @@
+.item img{
+  width: 25vw;
+  height: auto;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+}
